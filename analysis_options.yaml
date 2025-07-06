@@ -1,0 +1,4 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    prefer_interpolation_to_compose_strings: ignore
