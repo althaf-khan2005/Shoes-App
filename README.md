@@ -96,31 +96,34 @@ The o3d package is used to show a rotating 3D avatar when a product image is tap
 
 ## Screenshots 
 
+
+![Image](https://github.com/user-attachments/assets/c86ab868-0262-48c7-a87d-b886785790f7)
+
+![Image](https://github.com/user-attachments/assets/ee5c6888-2d88-4b5c-9335-520f3cb3c733)
+
+![Image](https://github.com/user-attachments/assets/a2ef2960-8d5f-4308-928a-3356ad41b1cd)
+
 ![Image](https://github.com/user-attachments/assets/c86ab868-0262-48c7-a87d-b886785790f7)
 
 ![Image](https://github.com/user-attachments/assets/f3ce6e0c-e0dd-42f7-a5a4-eff1d5d419bd)
 
 ![Image](https://github.com/user-attachments/assets/55c87b16-5473-486c-a54d-bbdf6bde3c32)
 
-[Image](https://github.com/user-attachments/assets/c86ab868-0262-48c7-a87d-b886785790f7)
 
-<!-- Failed to upload "Screenshot 2025-07-07 192114.png" -->
+![Image](https://github.com/user-attachments/assets/d117c4c1-67e9-4a9d-bba9-3258127e0eff)
 
-![Image](https://github.com/user-attachments/assets/6fcbade2-7b15-4722-b555-18628af47983)
+![Image](https://github.com/user-attachments/assets/0b4686ef-6de9-4f58-9eb9-ffc9fb3e9980)
 
-![Image](https://github.com/user-attachments/assets/07b956fa-5734-4fb2-a090-6032b244e168)
+![Image](https://github.com/user-attachments/assets/504ad5e5-8953-432a-a510-1677d03c4c00)
 
-<!-- Failed to upload "Screenshot 2025-07-07 192040.png" -->
+![Image](https://github.com/user-attachments/assets/9be38195-5396-4483-ac65-36a8173b3249)
 
-<!-- Failed to upload "Screenshot 2025-07-07 192114.png" -->
+![Image](https://github.com/user-attachments/assets/ff3085aa-ad97-4416-913a-474841a989e4)
 
-<!-- Failed to upload "Screenshot 2025-07-07 192140.png" -->
 
-![Image](https://github.com/user-attachments/assets/b2f4fbb9-e9e7-4faa-9d14-8240e5ef9f41)
 
-<!-- Failed to upload "Screenshot 2025-07-07 192300.png" -->
 
-<!-- Failed to upload "Screenshot 2025-07-07 192317.png" -->
+
 
 
 
