@@ -6,17 +6,17 @@ A clean, interactive UI-based shoe shopping app built with Flutter. Featuring a 
 
 ## 🚀 Features
 
-- ✅ Fully UI-based (No backend)
-- ✅ Clean Dark Mode Design
-- ✅ Animated Hero Transitions
-- ✅ 3D Product Preview using o3d package
-- ✅ “See More” section with interactive product tiles
-- ✅ Like Button with green tint (no count)
-- ✅ Cart Page UI
-- ✅ Filter Functionality
-- ✅ Viewed Products are saved in memory
-- ✅ Google Fonts for beautiful typography
-- ✅ Modular and clean widget architecture
+  ✅ Fully UI-based (No backend)  
+  ✅ Clean Dark Mode Design  
+  ✅ Animated Hero Transitions  
+  ✅ 3D Product Preview using o3d package  
+  ✅ “See More” section with interactive product tiles  
+  ✅ Like Button with green tint (no count)  
+  ✅ Cart Page UI 
+  ✅ Filter Functionality  
+  ✅ Viewed Products are saved in memory  
+  ✅ Google Fonts for beautiful typography 
+  ✅ Modular and clean widget architecture
 
 
 
