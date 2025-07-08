@@ -71,7 +71,7 @@ class _ShoeViewerState extends State<ShoeViewer> {
                   height: 400,
                 ),
               ),
-              SizedBox(height: 10),
+              SizedBox(height: 20),
               Padding(
                 padding: EdgeInsets.only(left: 10),
                 child: Text(
@@ -107,7 +107,7 @@ class _ShoeViewerState extends State<ShoeViewer> {
                 ),
               ),
 
-              SizedBox(height: 15),
+              SizedBox(height: 55),
 
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 10),
@@ -129,7 +129,7 @@ class _ShoeViewerState extends State<ShoeViewer> {
                   ],
                 ),
               ),
-              SizedBox(height: 60),
+              SizedBox(height: 80),
 
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 10),
