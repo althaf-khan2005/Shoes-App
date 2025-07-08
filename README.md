@@ -114,6 +114,7 @@ The o3d package is used to show a rotating 3D avatar when a product image is tap
 
 ![Image](https://github.com/user-attachments/assets/55c87b16-5473-486c-a54d-bbdf6bde3c32)
 
+https://github.com/user-attachments/assets/c86ab868-0262-48c7-a87d-b886785790f7
 
 ![Image](https://github.com/user-attachments/assets/d117c4c1-67e9-4a9d-bba9-3258127e0eff)
 
