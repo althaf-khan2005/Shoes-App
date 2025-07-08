@@ -18,6 +18,8 @@ A clean, interactive UI-based shoe shopping app built with Flutter. Featuring a 
 ✅ Google Fonts for beautiful typography
 ✅ Modular and clean widget architecture
 
+----
+
 ## 📦 Dependencies
 
 ```yaml
