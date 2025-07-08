@@ -82,7 +82,7 @@ The o3d package is used to show a rotating 3D avatar when a product image is tap
 
 3.Adds modern, premium UI feel
 
-##📦 How to Run
+## 📦 How to Run
 
 1. Clone the repo  
    ```sh
