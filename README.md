@@ -1,6 +1,9 @@
 ## 👟 Shoe Shopping App (Flutter UI + o3d 3D Viewer)
 A clean, interactive UI-based shoe shopping app built with Flutter. Featuring a dark theme, animated transitions, 3D avatar viewer (using o3d), cart UI, and fun like/favorite interactions — all without backend or Firebase.
 
+----
+
+
 ## 🚀 Features
 
 ✅ Fully UI-based (No backend)
