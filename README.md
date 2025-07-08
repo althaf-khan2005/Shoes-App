@@ -6,8 +6,6 @@ A clean, interactive UI-based shoe shopping app built with Flutter. Featuring a 
 
 ## 🚀 Features
 
----
-
 ✅ Fully UI-based (No backend)
 ✅ Clean Dark Mode Design
 ✅ Animated Hero Transitions
@@ -19,6 +17,8 @@ A clean, interactive UI-based shoe shopping app built with Flutter. Featuring a 
 ✅ Viewed Products are saved in memory
 ✅ Google Fonts for beautiful typography
 ✅ Modular and clean widget architecture
+
+
 
 ---
 
