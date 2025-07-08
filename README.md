@@ -15,8 +15,8 @@ A clean, interactive UI-based shoe shopping app built with Flutter. Featuring a 
   ✅ Cart Page UI 
   ✅ Filter Functionality  
   ✅ Viewed Products are saved in memory  
-  ✅ Google Fonts for beautiful typography 
-  ✅ Modular and clean widget architecture
+  ✅ Google Fonts for beautiful typography  
+  ✅ Modular and clean widget architecture  
 
 
 
