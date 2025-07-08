@@ -6,6 +6,8 @@ A clean, interactive UI-based shoe shopping app built with Flutter. Featuring a 
 
 ## 🚀 Features
 
+---
+
 ✅ Fully UI-based (No backend)
 ✅ Clean Dark Mode Design
 ✅ Animated Hero Transitions
@@ -114,12 +116,14 @@ The o3d package is used to show a rotating 3D avatar when a product image is tap
 
 ![Image](https://github.com/user-attachments/assets/55c87b16-5473-486c-a54d-bbdf6bde3c32)
 
-![Image](https://github.com/user-attachments/assets/ee5c6888-2d88-4b5c-9335-520f3cb3c733)
+![Image](https://github.com/user-attachments/assets/a2ef2960-8d5f-4308-928a-3356ad41b1cd)
 
+
+![Image](https://github.com/user-attachments/assets/0b4686ef-6de9-4f58-9eb9-ffc9fb3e9980)
 
 ![Image](https://github.com/user-attachments/assets/d117c4c1-67e9-4a9d-bba9-3258127e0eff)
 
-![Image](https://github.com/user-attachments/assets/0b4686ef-6de9-4f58-9eb9-ffc9fb3e9980)
+
 
 ![Image](https://github.com/user-attachments/assets/504ad5e5-8953-432a-a510-1677d03c4c00)
 
